@@ -1,0 +1,15 @@
+{
+  "name": "hallelujah-ui",
+  "dependencies": {
+    "lodash": "registry:npm/lodash#4.0.0+20160723033700"
+  },
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160802155123",
+    "angular-component-router": "registry:dt/angular-component-router#1.5.0+20160602124924",
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008"
+  },
+  "globalDevDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160725163759",
+    "node": "registry:dt/node#6.0.0+20160831021119"
+  }
+}
